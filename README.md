@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santhosh411kn
 - 👀 I’m interested in ...codings
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... DevOps and Python
 - 💞️ I’m looking to collaborate on ...software development
 - 📫 How to reach me ...santhosh411kn@hotmail.com
 
